@@ -4,6 +4,10 @@ Patch used: https://www.52pojie.cn/thread-1793118-1-1.html
 
 **The precompiled binary built by Github Actions is available in [`Actions` Tab](https://github.com/lyc8503/Sandboxie-crack/actions)**
 
+**PLEASE MAKE SURE YOU HAVE ENABLED `TEST MODE` WHICH IS REQUIRED FOR THIS TO WORK**
+
+If you have any questions, feel free to ask in GitHub `Issues`.
+
 A valid license:
 
 ```
