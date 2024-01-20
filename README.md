@@ -2,7 +2,7 @@ Sandboxie plus with license validation check patched.
 
 Patch used: https://www.52pojie.cn/thread-1793118-1-1.html
 
-**The precompiled binary built by Github Actions is available in [`Actions` Tab](https://github.com/lyc8503/Sandboxie-crack/actions)**
+**Download [HERE](https://github.com/lyc8503/Sandboxie-crack/releases/tag/PreCompiled-20240120-1.9.6) in GitHub Releases**
 
 **PLEASE MAKE SURE YOU HAVE ENABLED `TEST MODE` WHICH IS REQUIRED FOR THIS TO WORK**
 
