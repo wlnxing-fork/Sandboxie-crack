@@ -8,16 +8,18 @@ Patch used: https://www.52pojie.cn/thread-1793118-1-1.html
 
 **PLEASE MAKE SURE YOU HAVE ENABLED `TEST MODE` WHICH IS REQUIRED FOR THIS TO WORK**: [GUIDE](https://learn.microsoft.com/en-us/windows-hardware/drivers/install/the-testsigning-boot-configuration-option)
 
-If you have any questions, feel free to ask in GitHub `Issues`.
+If you'd like to run it without `Test Mode`, refer to https://github.com/lyc8503/Sandboxie-crack/issues/5.
+
+If you have any other questions, feel free to ask in GitHub `Issues`.
 
 A valid license:
 
 ```
-NAME: 52pojie  //任意
-DATE: 01.04.2099  //非必需
-TYPE: CONTRIBUTOR  //或PERSONAL-HUGE
+NAME: 52pojie  // Any name
+DATE: 01.04.2099  // Optional
+TYPE: CONTRIBUTOR  // or PERSONAL-HUGE
 SOFTWARE: Sandboxie-Plus
-UPDATEKEY: 123456789  //非必需
-SIGNATURE: www.52pojie.cn  //任意
+UPDATEKEY: 123456789  // Optional
+SIGNATURE: www.52pojie.cn  // Any value here
 ```
 
